@@ -3,17 +3,17 @@
   "name": "TLC Contents Service",
   "icons": [
     {
-      "src": "tlc_logo.png",
+      "src": "images/tlc_logo.png",
       "type": "image/png",
       "sizes": "48x48"
     },
     {
-      "src": "tlc_logo.png",
+      "src": "images/tlc_logo.png",
       "type": "image/png",
       "sizes": "96x96"
     },
     {
-      "src": "tlc_logo.png",
+      "src": "images/tlc_logo.png",
       "type": "image/png",
       "sizes": "192x192"
     }
